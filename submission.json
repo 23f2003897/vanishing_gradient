@@ -1,0 +1,6 @@
+{
+  "prompt": "A very long ancient Romanesque stone monastery corridor photographed from one end, stretching deep into the distance. Ten successive rounded stone arches recede one after another. Bright golden afternoon sunlight floods through a large window at the nearest arch, warmly illuminating the first two arches. Each successive arch is dramatically darker than the previous one, light diminishing exponentially until the last arches dissolve into complete impenetrable blackness. Dust particles float in the sunlit foreground. Ancient weathered limestone walls with rough texture. Completely empty corridor, bare worn stone floor. Wide-angle architectural photography, natural light only, Hasselblad medium format camera, high dynamic range.",
+  "model": "Ideogram 3.0",
+  "concept": "vanishing gradients",
+  "metaphor": "Sunlight dies exponentially through successive stone arches in a monastery corridor, mirroring gradient signal decay through deep network layers."
+}
